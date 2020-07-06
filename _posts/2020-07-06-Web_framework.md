@@ -8,3 +8,5 @@ I learned what the architechure of CS development.  I was thinking about the dev
 - We talked about AI on a different convo
 - Why you wouldnt build something from scratch in Python and you may want to use Django
 - Open Source and API
+
+https://www.markdownguide.org/cheat-sheet/
