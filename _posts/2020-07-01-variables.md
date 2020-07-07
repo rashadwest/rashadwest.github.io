@@ -11,4 +11,14 @@ Terms
 - Accessing the data 
 - Changing the value of the variable 
 - Example of getting multiple variables in different data types 
-- 
+- What does call mean?
+- Why did I get a name error?
+  - I put in the name Alivia into the terminal without quotes and I got an error 
+- I got an error message when I was typing in the st
+  ->>> 'Alivia' = 7
+  File "<stdin>", line 1
+SyntaxError: can't assign to literal
+
+Adding image
+
+![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/Screen%20Shot%202020-07-07%20at%2011.53.25%20AM.png)
