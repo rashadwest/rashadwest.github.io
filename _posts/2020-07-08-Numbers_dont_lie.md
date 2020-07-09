@@ -45,4 +45,27 @@ brief description.
 
 7. Data Visualization
 - Communicate the findings with key stakeholders using plots and interactive visualizations 
-  - I think this is when you show other people what your data project consists of to get feeback before publishing it. 
+  - I think this is when you show other people what your data project consists of to get feeback before publishing it.
+  
+ I have tried to simplify it even further after reading Alivias notes again.
+ 
+Business Understanding
+- Understanding how the business and the data work together 
+
+Data Mining
+- Finding the data I need 
+
+Data Cleaning 
+- Giving the data a haircut 
+
+Data Exploration 
+- EDA is finding the foundational metrics about your population or dataset 
+
+Feature Engineering 
+- Find and make dope features 
+
+Predictive Modeling 
+- Make models that can help me expand 
+
+Data Visualization 
+- Finding out what metrics are important for the project through visualizing the problem and the solution to that problem
