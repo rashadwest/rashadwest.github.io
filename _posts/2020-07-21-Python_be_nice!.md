@@ -44,3 +44,5 @@ In [12]: # Create the areas list
 ['bedroom', 10.75, 'bathroom', 9.5]
 ['hallway', 11.25, 'kitchen', 18.0, 'living room', 20.0]
 ```
+
+It turns out I just printed the upstairs and downstairs out of order.  Attention to detail ladies and gentlemen!
