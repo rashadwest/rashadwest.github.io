@@ -46,3 +46,16 @@ In [12]: # Create the areas list
 ```
 
 It turns out I just printed the upstairs and downstairs out of order.  Attention to detail ladies and gentlemen!
+
+```
+# Create the areas list
+areas = ["hallway", 11.25, "kitchen", 18.0, "living room", 20.0, "bedroom", 10.75, "bathroom", 9.50]
+
+# Alternative slicing to create downstairs
+downstairs = areas[:6]
+
+# Alternative slicing to create upstairs
+upstairs = areas[6:]
+```
+
+Another example I did this right but I did not think to put downstairs = areas[:6].  Instead I put downstairs[:6] like the example but it was not reading the area.  I want to try to retain this stuff as much as possible. 
