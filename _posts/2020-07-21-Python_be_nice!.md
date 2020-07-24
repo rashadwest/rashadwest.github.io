@@ -63,3 +63,19 @@ Another example I did this right but I did not think to put downstairs = areas[:
 Below was an euphoric moment for me.  I figured out how to think about this problem.  At first I did not know what they were talking about. Then I ran some of the code and then looked back at what values were printed for floats in the previous excercise.  I wonder if this is the only way to go about this.  I will ask Alivia tomorrow. 
 
 ![List Lesson](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-07-24%20at%202.26.15%20AM.png)
+
+On this one I do not understand what I did wrong.  I cannot wait to see the results.  They are starting to make it fun as I feel like I am invloved in building a house.
+
+```
+# Create the areas list and make some changes
+areas = ["hallway", 11.25, "kitchen", 18.0, "chill zone", 20.0,
+         "bedroom", 10.75, "bathroom", 10.50]
+
+# Add poolhouse data to areas, new list is areas_1
+areas_1 = areas + ["poolhouse", float(24.5)]
+
+# Add garage data to areas_1, new list is areas_2
+areas_2 = areas + ["garage", float(15.45)]
+```
+
+The solution was the number without the float().  I am confused on when to use this and when not too.  It worked so I am thinking I could use it.  This is another quesiton I have.  
