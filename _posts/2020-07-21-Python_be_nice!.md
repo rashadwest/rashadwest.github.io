@@ -79,3 +79,11 @@ areas_2 = areas + ["garage", float(15.45)]
 ```
 
 The solution was the number without the float().  I am confused on when to use this and when not too.  It worked so I am thinking I could use it.  This is another quesiton I have.  
+
+
+Examples of Data Types
+- Integer = 26
+- String = '26'
+- variable = twenty_six 
+- float = 26.01
+- Bool = True 
