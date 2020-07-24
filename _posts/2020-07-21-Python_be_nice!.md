@@ -59,3 +59,7 @@ upstairs = areas[6:]
 ```
 
 Another example I did this right but I did not think to put downstairs = areas[:6].  Instead I put downstairs[:6] like the example but it was not reading the area.  I want to try to retain this stuff as much as possible. 
+
+Below was an euphoric moment for me.  I figured out how to think about this problem.  At first I did not know what they were talking about. Then I ran some of the code and then looked back at what values were printed for floats in the previous excercise.  I wonder if this is the only way to go about this.  I will ask Alivia tomorrow. 
+
+![List Lesson](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-07-24%20at%202.26.15%20AM.png)
