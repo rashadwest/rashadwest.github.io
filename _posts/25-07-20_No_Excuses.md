@@ -70,3 +70,35 @@ full_sorted = sorted(full, reverse = True)
 # Print out full_sorted
 print(full_sorted)
 ```
+
+What I thought the answer was. 
+```
+In [4]: # string to experiment with: place
+        place = "poolhouse"
+        
+        # Use upper() on place: place_up
+        place_up = upper(place)
+        
+        # Print out place and place_up
+        print(place)
+        print(place_up)
+        
+        # Print out the number of o's in place
+        count(place)
+```        
+
+What the answer was.  I am not sure about the place.upper().  When I went to help() I did not see that with upper. 
+```
+# string to experiment with: place
+place = "poolhouse"
+
+# Use upper() on place: place_up
+place_up = place.upper()
+
+# Print out place and place_up
+print(place)
+print(place_up)
+
+# Print out the number of o's in place
+print(place.count('o'))
+```
