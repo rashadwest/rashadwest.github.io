@@ -15,3 +15,40 @@ This could enable individuals to search for topics or anything they want and mos
 https://genius.com/
 
 They could sor everything through a filtering system by subject matter and let the subject results with that particular word or phrase in it to be brought up first.
+
+## How do you find the theme in a movie without the director or writer adding it?  What if I wanted all the movies that show hidden racism
+
+ie. language, body language, or innuendos
+- How can you filter racisim into a search query? 
+- Classism 
+- Cultural events
+- How do you create categories that are not popular?
+- Sexism 
+- Respect 
+- Sneaker culture 
+
+Value Systems with cultural relevance
+- What if you are from the US but you like Nigerian culture (how can you find the movies you like)
+
+Language 
+- Natural language processing 
+
+Visualizing time period
+- Time period pieces 
+
+How could you classify a movie as positive or negative?
+- The value system is what 
+
+What is the movie trying to convey?
+- How can a model pick up on this?
+- How can a computer model reasoning and causality?
+  - This has not happened yet
+
+Creating a filter for racism
+
+If you are able to define something in a way that know one else has to solve a problem you can help companies or people. 
+
+To dos:
+- Thinking about these examples and try to define them
+= What would I need to do to prove out that something is true
+
