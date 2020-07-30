@@ -9,8 +9,8 @@ I am Rashad West and I am creating a data science project to determine NBA playe
 I appreiciate you going on this journey with me and I think it will be fun. Below is some of my story.
 
 ## Education
-Hampton University, BS, Business Management
-Stanford University, Entreprenurship & Innovation Program
+- Hampton University, BS, Business Management
+- Stanford University, Entreprenurship & Innovation Program
 
 ## Data Analytics Coursework
 - rashadwest.github.io
@@ -22,8 +22,9 @@ Stanford University, Entreprenurship & Innovation Program
 ## Work History
 - Wells Fargo
 - Credit Suisse 
-- General Assembly (Aquired by Adecco)
-- Courtside Xperience Labs Inc.
+- Frontlines Operations, General Assembly (Aquired by Adecco)
+- Lead Trainer, Lifetime Athletic 
+- CEO, Courtside Xperience Labs Inc.
 
 ## Interships 
 - Data Science internship, 2020
@@ -39,7 +40,9 @@ Stanford University, Entreprenurship & Innovation Program
 - Antranik Basket, Lebanon 
 - KK Vardar Basket, Macedonia
 
-# STEAM 
+# Community 
 - Creator, Beat the Expert (STEAM Sport)
 - Creator, North Carolina Small Business Fund VR Workshop
 - Organizer, Black Wall Street Tech Futures event
+- Leadership Team, Catalyst Network Foundation 
+- Board Member, Greater Development of All Youth (G.D.A.Y Camps)
