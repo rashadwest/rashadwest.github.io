@@ -17,6 +17,10 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 ## Data Analytics Coursework
 - [Datacamp: Introduction to Python](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Ffabb7d75677a5fd7cde59a125e02650a7b02fc38)
 
+## Other CS Coursework
+- General Assembly: Introduction to Ruby on Rails (weekend course)
+- General Assembly: Introduction to IOS development (weekend course) 
+
 ## Projects 
 - Beat The Expert VR application (version 1)
  - It is a virtual trainer
@@ -25,11 +29,14 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Beat The Expert WebApp 
   - It houses our curriculum and game
 - Single Mothers VR experience 
+ - Shows an experience of a low class single mother
+- Whats Cancelled website (www.whatscancelled.com)
+ - A website to help people navigate Covid-19
 
 ## Innovation Programs
 - Berkley Startup Program
+ - Learned about the legal aspects of a startup
 - Code 2040 Enterprenurship weekend
-- Y Combinator Startup School
 
 ## Work History
 - Wells Fargo
