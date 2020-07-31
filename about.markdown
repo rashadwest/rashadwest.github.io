@@ -13,13 +13,14 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 ## Education
 - Hampton University, BS, Business Management
 - Stanford University, Entreprenurship & Innovation Program
+- Google, VR & 360 video certification
 
 ## Data Analytics Coursework
 - [Datacamp: Introduction to Python](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Ffabb7d75677a5fd7cde59a125e02650a7b02fc38)
 
 ## Other CS Coursework
 - General Assembly: Introduction to Ruby on Rails (weekend course)
-- General Assembly: Introduction to IOS development (weekend course) 
+- General Assembly: Introduction to IOS development (weekend course)
 
 ## Projects 
 - Beat The Expert VR application (version 1)
