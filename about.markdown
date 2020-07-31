@@ -30,9 +30,9 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Beat The Expert WebApp 
   - It houses our curriculum and game
 - Single Mothers VR experience 
- - Shows an experience of a low class single mother
+  - Shows an experience of a low class single mother
 - [Whats Cancelled website](www.whatscancelled.com)
- - A website to help people navigate Covid-19
+  - A website to help people navigate Covid-19
 
 ## Innovation Programs
 - Berkley Startup Program
