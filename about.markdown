@@ -49,7 +49,7 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Data Science internship, 2020
 
 ## Fellowships 
-- Oculus LaunchPad Fellow 2017, 2018
+- Facebook/Oculus LaunchPad Fellow 2017, 2018
 
 ## Professional Athletic Experience
 - Idaho Stampede, NBA Development League 
