@@ -15,7 +15,7 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Stanford University, Entreprenurship & Innovation Program
 
 ## Data Analytics Coursework
-- rashadwest.github.io
+- [Datacamp: Introduction to Python](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Ffabb7d75677a5fd7cde59a125e02650a7b02fc38)
 
 ## Innovation Programs
 - Berkley Startup Program
