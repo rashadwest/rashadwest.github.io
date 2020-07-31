@@ -30,3 +30,20 @@ print(house)
 # Print out the type of house
 print(type(house))
 ```
+## 2D Numpy Array 
+
+I am learning how to use these but I got a little confused on this one.  This is the correct answer below.  I was introduced to it differently in the video. 
+
+```
+# baseball is available as a regular list of lists
+
+# Import numpy package
+import numpy as np
+
+# Create a 2D numpy array from baseball: np_baseball
+np_baseball = np.array(baseball)
+
+# Print out the shape of np_baseball
+print(np_baseball.shape)
+```
+I thought that I would need to put np_baseball = np.array([[baseball]]).  I thought the two brackets would do the trick but it did not need them. 
