@@ -1,7 +1,15 @@
 # Leadership in NBA Analytics 
 
-1. @42analytics 
-2. @roblowe 
-3. @natesilver 
-4. @kurtgoldsberry
-5. @darylmorey 
+Here are some of the leaders in the space of basketball data and analytics.  
+
+- @42analytics 
+- @roblowe 
+- @natesilver538 
+- @kurtgoldsberry
+- @dmorey 
+- @SethPartnow
+- @bencfalk
+- @TeamQ
+- @DeanO_Lytics
+- @Secondspectrum
+- @Sportstechwest
