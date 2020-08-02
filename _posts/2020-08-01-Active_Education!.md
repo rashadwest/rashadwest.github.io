@@ -21,4 +21,6 @@ Will everyone do it I do not think so.  There can be the way we are doing things
 
 There is nothing good about where we are going in my opinion.  I understand the only way to change the trajectory is to build systems in which people can see what I am saying. 
 
-In our society seeing is beleving! 
+My friend Dr. John Drazan says it best in this speech he gave at MIT when he won the research paper compeition. [MIT Presentation](http://www.sloansportsconference.com/content/sports-science-using-basketball-analytics-broaden-appeal-math-science-among-youth/)
+
+The one thing I realize that in our society seeing is beleving! Execute! Execute! Execute!
