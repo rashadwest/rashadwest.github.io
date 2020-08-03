@@ -11,3 +11,14 @@ Now that I understand computer vision I am thinking about ways this can be incor
 This is an assignment where I messed up on the code in the second line.  I was not sure how to make it happen.  You can see the error below.  As you can see my solution 
 intitally I just have birth_weight and full_term out of order.  
 ![Infant baby weight assignment](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-08-02%20at%208.57.35%20PM.png)
+
+```
+# Create a Boolean Series for full-term babies
+full_term = nsfg['prglngth'] >= 37
+
+# Select the weights of full-term babies
+full_term_weight = full_term[birth_weight]
+
+# Compute the mean weight of full-term babies
+print(full_term_weight.mean())
+```
