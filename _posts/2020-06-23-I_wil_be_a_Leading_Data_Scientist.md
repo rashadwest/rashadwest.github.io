@@ -1,4 +1,4 @@
-# I will be a Data Scientist 
+# I will be a Leading Data Scientist 
 ## How do I get started on my first project?
 
 A SSH key is a stardard component of the secure shell protocal suite found on Unix like and Microsoft window computer systems. 
