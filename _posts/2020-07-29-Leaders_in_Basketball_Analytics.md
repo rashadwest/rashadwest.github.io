@@ -21,6 +21,13 @@ Utah
 Boston
 - Mike Zarren
   - @mikezarren
+  
+Charlotte
+- George_Rodman
+  
+Washington 
+- Zain Jafri 
+  - @zainjafri328
 
 ## Twitter Handle: Inviduals
 
