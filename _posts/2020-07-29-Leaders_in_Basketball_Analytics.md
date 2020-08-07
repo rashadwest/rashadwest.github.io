@@ -59,6 +59,17 @@ SethPartnow
 Shamit Dua
 - @FearTheBrown
 
+Yu-Han Chang
+- @yuhan_chang
+
+Rajiv Maheswaran
+- @rajivmaheswaran
+
+Adam Wexler
+- @AdamJWexler
+
+John Drazan
+- @Sports2Stem
 
 ## Twitter Handle: Organizations
 
