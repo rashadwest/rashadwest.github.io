@@ -12,7 +12,7 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 
 ## Education
 - Hampton University, BS, Business Management
-- Stanford University, Entreprenurship & Innovation Program
+- Stanford University, Entrepreneurship & Innovation Program
 - Google, VR & 360 video certification
 
 ## Data Analytics Coursework
@@ -37,7 +37,7 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 ## Innovation Programs
 - Berkley Startup Program
  - Learned about the legal aspects of a startup
-- Code 2040 Enterprenurship weekend
+- Code 2040 Entrepreneurship weekend
 
 ## Work History
 - Wells Fargo
@@ -53,7 +53,7 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Oculus(Facebook) LaunchPad Fellow 2017, 2018
 
 ## Professional Athletic Experience
-- Idaho Stampede, NBA Development League 
+- Idaho Stampede, NBA Developmental League 
 - OTC Basket, Argentina LEB
 - Gestribera Ciudad De Vigo Basket, Spain 
 - Assis Basket, Brazil 
@@ -66,3 +66,5 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Organizer, Black Wall Street Tech Futures event
 - Leadership Team, Catalyst Network Foundation 
 - Board Member, Greater Development of All Youth (G.D.A.Y Camps)
+- Speaker, Microsoft ManCode events
+- Speaker, Boys and Girls Club Golf Tournament
