@@ -29,7 +29,7 @@ Washington
 - Zain Jafri 
   - @zainjafri328
 
-## Twitter Handle: Inviduals
+## Twitter Handle: Individuals
 
 Nate Silver
 - @natesilver538 
