@@ -7,7 +7,11 @@ former professional basketball player but now spends his time developing technol
 
 Ok, I am done talking about myself in 3rd person.  To be honest I am an individual who loves the nuances of basketball.  The game takes on many different styles and it can be played with so many different paces.  It is a true art form that the world is starting to appreciate.  
 
-If you have a moment I am about to take you on a journey.  Let's talk about basketball.  You have multiple players who are great in the NBA.  However, there are 4 that have stood out for revolutionizing the game over the past decade. 
+If you have a moment I am about to take you on a journey.  Let's talk about the evolution of basketball.  The game started with a round ball that had stitching on it like a football and players would shoot the ball into a peach basket.  The game was mostly 5 players standing around passing each other the ball while standing in a stationary position and only moving without the ball.  The exception to this was if they were dribbling.  Dunking the ball was illegal and the game was segregated by race.
+
+Let us fast forward to the modern-day.  Now we have an integrated game and in some leagues, the players are making millions of dollars a year. They are moving fluently on the court and can dribble, pass, and shoot so well that often it looks effortless.  They can dribble the ball and jump pass or stop on the dime and shoot.  They can dunk the ball while doing pirouettes in the air.  Some players are so good they can now shoot floaters, runners, fadeaways, and hook shots depending on the defenders positioning.      
+
+You have multiple players who are great in the NBA.  However, there are 4 that have stood out for revolutionizing the game over the past decade. 
 
 One of them is almost 7 foot tall, lanky, silky smooth, point forward that could not lift 185 pounds one time at the combine but has basketball type core strength.  Next up is a 6'8 260-pound freight train, that moves like a ballerina, and can see the court like he has x-ray vision.  Thrid we have a 6'2ish 185 poundish point guard/shooting guard,
 that can shot from outside of the arena and handle the ball with the precision of an Exacto knife.  Last but not least we have a guy who is 6'8 and wiry with hands that are bigger than both of your hands put together (unless you are Shaq) and you could not get around him in the game show "Gladiators" in the [Pyriamid](https://youtu.be/x5_ivBV7FMo) if your
