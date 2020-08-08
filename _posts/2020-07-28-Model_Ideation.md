@@ -9,17 +9,17 @@ The example she used was searching for "basketball analytics" and nothing came u
 How do we create an algo that can find this when we search?
 
 My idea is to create an algo similar to what Genius has.  The company Genius has a system where they capture all of the text for songs and books.  They then have individuals well versed in music or books 
-that comment what the meaning of each line, bar, or lyric means.  
+that comment on what the meaning of each line, bar, or lyric means.  
 
 This could enable individuals to search for topics or anything they want and most things could turn out search results if they keep a large database of everything that is stored.  
 https://genius.com/
 
-They could sor everything through a filtering system by subject matter and let the subject results with that particular word or phrase in it to be brought up first.
+They could sort everything through a filtering system by subject matter and let the subject results with that particular word or phrase in it to be brought up first.
 
 ## How do you find the theme in a movie without the director or writer adding it?  What if I wanted all the movies that show hidden racism
 
 ie. language, body language, or innuendos
-- How can you filter racisim into a search query? 
+- How can you filter racism into a search query? 
 - Classism 
 - Cultural events
 - How do you create categories that are not popular?
@@ -33,7 +33,7 @@ Value Systems with cultural relevance
 Language 
 - Natural language processing 
 
-Visualizing time period
+Visualizing a time period
 - Time period pieces 
 
 How could you classify a movie as positive or negative?
@@ -46,9 +46,8 @@ What is the movie trying to convey?
 
 Creating a filter for racism
 
-If you are able to define something in a way that know one else has to solve a problem you can help companies or people. 
+If you can define something in a way that no one else has to solve a problem you can help companies or people. 
 
-To dos:
+Todos:
 - Thinking about these examples and try to define them
 = What would I need to do to prove out that something is true
-
