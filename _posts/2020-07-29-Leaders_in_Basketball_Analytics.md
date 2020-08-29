@@ -2,7 +2,7 @@
 
 Here are some of the leaders in the space of basketball data and analytics.  Please forgive me if I miss anyone.  This is only from my limited research.  
 
-![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/NBA-analytics-staffers-8-3.png)
+![NBA Analytics Staff](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/NBA-analytics-staffers-8-3.png)
 
 
 ## Twitter Handles: People who work for teams
@@ -115,14 +115,6 @@ Golden State
   - @mattholbrook6 
 - Kevin Steele 
   - seek_objective 
-
-
-
-
-
-  
-  
-  
 
 
 ## Twitter Handle: Individuals
