@@ -10,5 +10,5 @@ Our dribble tree consists of the five commonly known dribbles in basketball.
 Within the dribble tree system, an individual has two dribble combos and three dribble combos.  When you combine a dribble, you are doing arithmetic.  If you put together 
 1 + 2, then that equals 3.  If you then determine that you are going to 30, then now you are doing algebra.  So the equation would be x(1+2) = 30.  This is just one of the ways we teach math in our Beat the Expert game.
 
-![Dribble Tree Intro](/Screen%20Shot%202020-08-30%20at%209.37.28%20PM.png)
-![Dribble Tree Explained](/Screen Shot 2020-08-30 at 9.37.09 PM.png)
+![Dribble Tree Intro](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-08-30%20at%209.37.28%20PM.png?raw=true)
+![Dribble Tree Explained](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-08-30%20at%209.37.09%20PM.png?raw=true)
