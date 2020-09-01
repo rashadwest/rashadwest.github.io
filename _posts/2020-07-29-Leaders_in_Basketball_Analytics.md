@@ -2,7 +2,7 @@
 
 Here are some of the leaders in the space of basketball data and analytics.  Please forgive me if I miss anyone.  This is only from my limited research.  
 
-![NBA Analytics Staff](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/NBA-analytics-staffers-8-3.png)
+![NBA Analytics Staff](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/NBA-analytics-staffers-8-3.png?raw=true)
 
 
 ## Twitter Handles: People who work for teams
