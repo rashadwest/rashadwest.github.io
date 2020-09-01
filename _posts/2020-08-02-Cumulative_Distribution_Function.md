@@ -4,11 +4,11 @@ The cumulative distribution function gives you the cumulative probability associ
 
 Histograms, PMF, and CDF are all graphs that help in data science.
 
-![Learning CDF's](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-08-04%20at%2012.30.03%20PM.png)
+![Learning CDF's](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-08-04%20at%2012.30.03%20PM.png?raw=true)
 
 I am so mad at myself this morning.  I did messed up on one part and was frustrated instead of just taking my time and figuring it out.  Here is the solution that was found in the screenshot and my code below that. I missed puting income into the Cdf.
 
-![Ploting CDF's](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-08-05%20at%205.41.59%20AM.png)
+![Ploting CDF's](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-08-05%20at%205.41.59%20AM.png?raw=true)
 
 ```
 # Select realinc
