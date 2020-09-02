@@ -1,5 +1,7 @@
 # Bubble Innovation Opportunities 
 
+![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/NBA%20Bubble.jpeg?raw=true)
+
 Looking at the NBA bubble, I see so many opportunities for startups and companies to create things that will enhance the fan experience.  
 
 How will the NBA regain the money lost from not having fans during the playoffs?  Is this the new normal?
