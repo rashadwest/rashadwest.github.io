@@ -2,8 +2,6 @@
 
 ## What we have created is dope! Period! 
 
-![A player doing the BTE Dribble Tree](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-09-01%20at%2010.30.08%20PM.png?raw=true)
-
 The more and more I think about the human experience I think we are doing it all wrong.  We are built to explore, run, jump, socialize, and build.  Our new digital society
 is built on sitting in front of a computer and that is what the majority of the "successful" people do.  This is crazy! The people who are active and doing stuff that we came on earth to do like the trades of the world are not really rewarded from a financial perspective.  Let's think about this for a second. 
 
@@ -20,3 +18,5 @@ There is nothing good about where we are going in my opinion.  I understand the 
 My friend Dr. John Drazan says it best in this speech he gave at MIT when he won the research paper competition. [MIT Presentation](http://www.sloansportsconference.com/content/sports-science-using-basketball-analytics-broaden-appeal-math-science-among-youth/)
 
 The one thing I realize that in our society seeing is believing! Execute! Execute! Execute!
+
+![A player doing the BTE Dribble Tree](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-09-01%20at%2010.30.08%20PM.png?raw=true)
