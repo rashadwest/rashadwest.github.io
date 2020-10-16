@@ -7,3 +7,5 @@ I think of Jimmy Butler first.  I have seen him have a layup or a chance to get 
 I wonder if he is measuring the probability of finishing or getting the foul in real-time.  It seems like he is making calculations to determine the right play.  Sometimes, he goes up strong and finishes or gets the foul and very random times where he kicks it out to a teammate, but they look like the same situations quite often.  
 
 Jimmy Butler makes me think about what we are developing with Beat The Expert.  How can we make it so players can measure things in real-time more effectively? 
+
+Just think about when players will be able to access the game in real time with probabilities that they know and understand.
