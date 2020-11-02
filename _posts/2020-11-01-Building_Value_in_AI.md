@@ -1,3 +1,5 @@
+![Building value in AI](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/AI.png?raw=true)
+
 How can you be successful in business or investing?  Build a platform that is a solid foundation and making it a sustainable product that adds value. 
 
 The ability to create value applies to brands, people, products, and platforms.  It is the ingredients that make things happen!  I want to add value, and that is what I am building.  
