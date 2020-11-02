@@ -6,4 +6,6 @@ I started Halloween off by coding a new shot chart using NBA data.
 
 Here is what I have so far.  I have ran into problems trying to get Lebron James data but I will try some more tonight. 
 
-![NBA Project](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-11-01%20at%203.27.29%20PM.png)
+![NBA Project](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-11-01%20at%203.27.29%20PM.png?raw=true)
+
+I have started to get more done with the shot chart but I hit a roadblock with the NameError message.  It seems that regardless of what code I get to run it will not print the variables I set.  I will look more into it and get back to you on my progress. 
