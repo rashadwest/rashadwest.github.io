@@ -1,3 +1,5 @@
+![Marbury Statue](https://github.com/rashadwest/rashadwest.github.io/blob/master/Marbury%20statue.jpg?raw=true)
+
 Steph Marbury had a quote "You can't break the game down to me if you never played at this level before, if you never had sex before and you're a virgin, you can't tell me how it is to bust a nut."
 
 I know what Marbury means, but I do not entirely agree.  There is no disrespect whatsoever in his statement.  It is just really a solid statement to analyze, no pun intended.
