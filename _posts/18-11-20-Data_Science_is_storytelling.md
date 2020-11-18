@@ -1,3 +1,5 @@
+![Data storytelling](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/data_story3_sq-1.png?raw=true)
+
 I am starting to feel good about learning data science.  It is merely factual storytelling.  If you can find facts and use them to tell a story, you are a good data scientist. 
 
 Many people create great visualizations and build amazing things, but they do not tell a great story. 
@@ -10,7 +12,9 @@ Data science is simple.
 
 There are three stories I am developing right now.
 
-I am looking at the ages of players that are in the NBa.  Then, I am determining if the time in the year in which they were born has anything to do with their chances to make it to the professional level
-I want to tell how youth athlete's progression in certain areas enabled them to be successful in the sport by finding out what variables are the most important in their development.  (The numbers do not lie)  
-I want to empower the youth athletes to tell their own stories through using our STEM (Science, Tech, Engineering, Math) basketball system.
+- I am looking at the ages of players that are in the NBa.  Then, I am determining if the time in the year in which they were born has anything to do with their chances to make it to the professional level
+
+- I want to tell how youth athlete's progression in certain areas enabled them to be successful in the sport by finding out what variables are the most important in their development.  (The numbers do not lie)  
+
+- I want to empower the youth athletes to tell their own stories through using our STEM (Science, Tech, Engineering, Math) basketball system.
 
