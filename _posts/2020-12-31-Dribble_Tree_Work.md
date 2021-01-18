@@ -1,4 +1,4 @@
-![]https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Steph_Durant.webp?raw=true
+![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Steph_Durant.webp?raw=true)
 
 "The moment of innocent revelry was short-lived. The coach seized control of his body again. Above a baked bean tray, Kerr started pantomiming And1 mixtape handles, muttering to himself, "Now if we could just stop doing this … shit."
 Kerr's stylistic preference was no secret. During the Game 6 blowout, from the FedEx Forum seats, you could hear the coach repeatedly hollering, "Move the ball!" or "Move the fucking ball!"
