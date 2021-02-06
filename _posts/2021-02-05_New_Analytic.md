@@ -1,4 +1,4 @@
-#New_Analytic
+# New_Analytic
 
 Beat the Expert is a game where we make youth basketball analytics educational in real time.  Here is a new analytic that describes the game in detail.
 We are looking at the comparisons of Ja Morant and Terry Rozier.  If you look at the combinations of made shots between the two players they are simialar.  
