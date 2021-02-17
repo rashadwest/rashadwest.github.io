@@ -9,6 +9,8 @@ Lastly, this analytic is educational.  The unique analytic is teaching individua
 
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/BTE_Box_Score.jpg?raw=true)
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_shots.jpg?raw=true)
+![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/BTE_Color_Map.jpg?raw=true)
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Shaq.jpg?raw=true)
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Shaq_2.jpg?raw=true)
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Klay.jpg?raw=true)
+
