@@ -1,4 +1,4 @@
-# Analytics on analytics 
+# Analytics Culuture
 
 Here is an advanced analytic where we have developed a advanced analytic called the BTE box score.  The box score is provided by using our court plotting system to determine where you are on the court when you shoot the ball. 
 The plotting system enables individual to determine location by color.  This gives fans, GM's, data scientists, statisticians, and analysts a way of knowing where a player is without needing a shot plot.  
