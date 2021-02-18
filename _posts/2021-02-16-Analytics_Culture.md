@@ -7,10 +7,25 @@ Each square represents a color from the color grid.  It teaches individual color
 Lastly, this analytic is educational.  The unique analytic is teaching individuals the color wheel.  We are a S.T.E.A.M (Science, Technology, Enginerring, Art, and Mathmatics) platform.  
 
 
+Each color represents a location and it also shows rather a player scored or not.
+
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/BTE_Box_Score.jpg?raw=true)
+
+This is the key to understanding the system. 
+
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_shots.jpg?raw=true)
+
+This is also the color map.  It is wrapped on the court for us to determine location and to teach the color wheel. 
+
+
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/BTE_Color_Map.jpg?raw=true)
+
+If you look at Shaqs box score it is all in the paint so it is mostly the same color.
+
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Shaq.jpg?raw=true)
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Shaq_2.jpg?raw=true)
+
+Klay has more colors in his box score because he is a perimeter scorer. 
+
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Klay.jpg?raw=true)
 
