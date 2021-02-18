@@ -25,7 +25,7 @@ If you look at Shaqs box score it is all in the paint so it is mostly the same c
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Shaq.jpg?raw=true)
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Shaq_2.jpg?raw=true)
 
-Klay has more colors in his box score because he is a perimeter scorer. 
+Klay Thompson has more colors in his box score because he is a perimeter scorer. 
 
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Analytic_Klay.jpg?raw=true)
 
