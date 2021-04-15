@@ -1,6 +1,6 @@
 # MIT Sports Analytics Hackathon Recap
 
-![MLB](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/mlb.jpeg)
+![MLB](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/mlb.jpeg?raw=true)
 
 I enjoyed the MIT SSAC hackathon.  We did a project for the MLB and what we decided to do was create an algo that gamifies pitching.  We wanted to develop a way for individuals to look at past pitches to help people with gambling predictions.  I had a team of 4 people, and they were all great data scientists.  However, it came with unique challenges and opportunities.
 
