@@ -1,10 +1,10 @@
-#MIT Sports Analytics Hackathon Recap
+## MIT Sports Analytics Hackathon Recap
 
 I enjoyed the MIT SSAC hackathon.  We did a project for the MLB and what we decided to do was create an algo that gamifies pitching.  We wanted to develop a way for individuals to look at past pitches to help people with gambling predictions.  I had a team of 4 people, and they were all great data scientists.  However, it came with unique challenges and opportunities.
 Here is the link of our pitch to the MLB. 
 [Gamifiying_Pitching](https://studio.youtube.com/video/INJxUeqSe6k/edit)
 
-Here are a few takeaways. 
+# Here are a few takeaways. 
 
 1. What we overcame 
 - Enormous amounts of data from the MLB needed parsing.  We had to go through it to figure out what we needed for our project. 
@@ -21,7 +21,7 @@ Here are a few takeaways.
 - This will make baseball a sport that is more interactive and fun to watch because of the ability to gamble in real-time, and we believe a system in place for users to make an educated decision on each bet is a lucrative business model
 
 
-The MIT SSAC hackathon was a great experience, but this is what I learned.
+# The MIT SSAC hackathon was a great experience, but this is what I learned.
 
 Choose what you are going to do as a team as soon as you can.
 - Once you figure this out, you can get to work.
