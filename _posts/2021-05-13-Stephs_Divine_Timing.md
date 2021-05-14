@@ -1,4 +1,4 @@
-![Steph_Stats](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/steph_stats.png?raw=true)
+![Steph_Stats](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/New_Steph.jpg?raw=true)
 
 
 Steph is the best shooter of all time. He also had divine timing that has made him unguardable in the modern-day NBA.  Let's look at what made him great at this time.  It also made me think about why players like Dame Lililard and Steph Curry did not end up in the spark of the bench category like Jamal Crawford and Lou Williams. 
