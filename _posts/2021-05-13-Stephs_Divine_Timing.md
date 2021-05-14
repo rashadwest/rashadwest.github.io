@@ -24,7 +24,7 @@ Here is why I think if Steph was a player in the late 90's early 2000s, his curr
 
 - Shooting the ball off the dribble from 3ball was looked at as selfish.  At the time, no one really could do so because the step back was only looked at as a good shot from the 2 point line.  The lack of moves that free you up in a limited amount of dribbles made it hard to create a good amount of space.  
 
-![alt text]()
+![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/steph_shot_plot.png?raw=true)
 
 
 Images: Compliment of STATMUSE
