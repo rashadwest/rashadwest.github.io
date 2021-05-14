@@ -14,15 +14,15 @@ Here is why I think if Steph was a player in the late 90's early 2000s, his curr
 
 1. Shooting a contestant 3ball was not only frowned upon, but most coaches would curse you out. 
 
-- I remember when I did an in and threw the legs crossover and pulled up for a three-pointer.   My coach took me out to curse me out and then put me back in the game.
+-- I remember when I did an in and threw the legs crossover and pulled up for a three-pointer.   My coach took me out to curse me out and then put me back in the game.
 
 2. For the majority of coaches, you had to be open to shooting a 3ball.
 
-- If it was not the play or if it was not after the ball hit the post, this was perceived as a bad shot most of the time. 
+-- If it was not the play or if it was not after the ball hit the post, this was perceived as a bad shot most of the time. 
 
 3. If you shot a 3ball off the dribble and it was not off a pick and roll or end of the shot clock, you better make it.  If you do not, you may come out of the game unless that was your role as a marksman.
 
-- Shooting the ball off the dribble from 3ball was looked at as selfish.  At the time, no one really could do so because the step back was only looked at as a good shot from the 2 point line.  The lack of moves that free you up in a limited amount of dribbles made it hard to create a good amount of space.  
+-- Shooting the ball off the dribble from 3ball was looked at as selfish.  At the time, no one really could do so because the step back was only looked at as a good shot from the 2 point line.  The lack of moves that free you up in a limited amount of dribbles made it hard to create a good amount of space.  
 
 ![alt text](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/steph_shot_plot.png?raw=true)
 
