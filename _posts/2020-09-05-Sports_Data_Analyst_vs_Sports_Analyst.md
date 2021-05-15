@@ -14,3 +14,7 @@ Sports Analyst
 I think this will change as the data and analytics departments in sports continue to grow.  People will know the difference between analysts.
 
 There is one data analyst on the ESPN network and there are way more sports analysts on ESPN.  I think this will change as statstical analysis becomes more of a thing that people see on the court.
+
+My top people in both fields are below.  I am biased being a basketball guy.   
+GOAT Sports analyst = Stuart Scott
+GOAT Sports data analyst = Daryl Morey, Kurt Goldsberry
