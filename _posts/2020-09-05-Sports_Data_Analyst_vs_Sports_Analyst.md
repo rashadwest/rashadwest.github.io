@@ -2,6 +2,10 @@
 
 ![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/data-sports.jpg?raw=true)
 
+After Moneyball in 2003 a bunch of teams were trying to figure out how to build their version of the Oakland A's. 
+
+In 2008 only 5 NBA teams had analytics departments. Now all 30  teams have a staff of mathematicians, data scientists, and programmers. They are in charge of analyzing the raw statistical data from games and getting teams to adopt strategies based on the numbers. 
+
 When looking at sports analysis, I do not think they do an excellent job distinguishing the two different analyst types.  
 Here is how I define a "Sports Data Analyst" and a "Sports Analyst."
 
