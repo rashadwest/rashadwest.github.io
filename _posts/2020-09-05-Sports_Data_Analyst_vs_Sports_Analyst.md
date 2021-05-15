@@ -21,4 +21,4 @@ There is one data analyst on the ESPN network and there are way more sports anal
 
 My top people in both fields are below.  I am biased being a basketball guy.   
 GOAT Sports analyst = Stuart Scott
-GOAT Sports data analyst = Daryl Morey, Kurt Goldsberry
+GOAT Sports data analyst = Daryl Morey, Kirk Goldsberry
