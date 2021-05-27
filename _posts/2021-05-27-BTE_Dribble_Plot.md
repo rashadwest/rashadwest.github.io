@@ -1,4 +1,6 @@
-![BTE Dribble Plot](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/BTE_JaMorant_44_12_23_2020.png)
+![BTE Dribble Plot](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/BTE_JaMorant_44_12_23_2020.png?raw=true)
+
+Ja Morant's game that put him on the map.  He had 44 and made his last 5 shtsw
 
 We have created a new dribble plot.  This system has a couple components to it.  
 
