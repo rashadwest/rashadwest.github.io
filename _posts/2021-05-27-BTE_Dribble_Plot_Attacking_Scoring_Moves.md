@@ -2,7 +2,9 @@
 
 This game against the Spurs put Ja Morant on the map as a legit scorer.
 
-We have created a new dribble plot.  This dribble plot has a couple of components to it.  
+We have created a new dribble plot.  This dribble plot has a couple of components to it. 
+
+This is all of the attacking moves for Ja Morants made shots. 
 
 We have a unique proprietary system
 2. Each dribble has a color 
