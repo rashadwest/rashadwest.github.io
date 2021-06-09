@@ -1,8 +1,6 @@
-![BTE Dribble Plot](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/BTE_Dribble_Plot_JaMorant_44.png?raw=true)
-
 This game against the Spurs put Ja Morant on the map as a legit scorer.
 
-We have created a new dribble plot.  This dribble plot has a couple of components to it. 
+We have created a new dribble plotTM.  This dribble plotTM has a couple of components to it. 
 
 This is all of the attacking moves for Ja Morants made shots. 
 
