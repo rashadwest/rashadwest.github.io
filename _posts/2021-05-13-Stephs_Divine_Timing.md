@@ -1,7 +1,7 @@
 ![Steph_Stats](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/New_Steph.jpg?raw=true)
 
 
-Steph is the best shooter of all time. He also had divine timing that has made him unguardable in the modern-day NBA.  Let's look at what made him great at this time.  It also made me think about why players like Dame Lililard and Steph Curry did not end up in the spark of the bench category like Jamal Crawford and Lou Williams.  If he was a starter I think he would fall somewhere between Mark Price and Steve Nash. 
+Steph is the best shooter of all time. He also had divine timing that has made him unguardable in the modern-day NBA.  Let's look at what made him great at this time.  It also made me think about why players like Dame Lililard and Steph Curry did not end up in the spark of the bench category like Jamal Crawford and Lou Williams.  If he was a starter in the 80's or 90's I think he would fall somewhere between Mark Price and Steve Nash because of the lack of opportunities to shoot. 
 
 It seems like from Stephs draft night on, data and analytics departments started to look at things like points per possession in particular areas in a serious way.  It turns out that nothing will be the same in the next decade when it comes to the game of basketball as you see people going from trying to get the ball to the post to individuals 7 foot tall staying around the three-point area.  This was also around the time we learned that the points per possession were around 1.05-1.10 from the 3ball area, around 0.85 from the mid-range area, and 1.20 from around the rim during his peak championship runs.
 
