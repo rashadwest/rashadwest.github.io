@@ -7,4 +7,6 @@ each move as well.   This helps you to be able to see tendencies and proficiency
 I will share more as weget closer to launching thius new algo.  This is the best thing we have developed to date in my opinion.  The dribble tree has been an important 
 part of the development of this algorthim.
 
+We will be sharing this algo by the end of the year.
+
 - Rashad
