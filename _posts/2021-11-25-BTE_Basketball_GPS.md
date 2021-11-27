@@ -1,6 +1,6 @@
 # Beat The Expert Basketball GPS
 
-What we have now is google maps and you can tell where the cars are on the map.  What this is tells you where the cars went and what they did while they were on the road. 
+What we have now is google maps and you can tell where the cars are on the map.  BTE basketball GPS takes google maps into the mode where you are getting directions through the GPS.  BTE Basketball GPS tells you where the cars went and what they did while they were on the road. 
 
 ### Scouting  
 - Now we have a way for scouts to determine profincency and efficiency of a player. It can help scout a opposing player.
