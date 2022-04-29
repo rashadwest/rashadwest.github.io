@@ -2,7 +2,7 @@
 
 In this video I give you an introduction to our analytics and algorithm. This will give context to why we think our dribbles and moves algo can revolutionize the game and education. 
 
-[Intro](https://youtu.be/AudQzDpAfIE)
+[Intro video link](https://youtu.be/AudQzDpAfIE)
 
 ![Dribble Tree](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202020-09-01%20at%2010.30.08%20PM.png?raw=true)
 
