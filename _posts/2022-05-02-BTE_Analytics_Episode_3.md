@@ -7,13 +7,12 @@ more like you see below. Where I knew everything needed to be quantitative but n
 
 ![Analytics dreams turned reality](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/wip2.jpg?raw=true)
 
-
-While I was playing I was just trying to do what my job required at the best of my ability.  I never guested that I would ever chainge into an analyst after my playing days were over.  This guy never thought about XR.  
-
-![Playing overseas](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Pro%20ball.jpg?raw=true)
-
 Fast forward to today and I am thinking about the least explored part of XR which is AR.  It will change how we interact, communicate, and make money in the real world forever.  
 
 ![AR Creating](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202022-05-02%20at%2011.02.20%20PM.png)
+
+While I was playing I was just trying to do what my job required at the best of my ability.  I never guested that I would ever chainge into an analyst after my playing days were over.  This guy never thought about XR.  Now I know it is what I am supposed to do to help build amazing things for the next generation.
+
+![Playing overseas](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Pro%20ball.jpg?raw=true)
 
 I look forward to sharing with yall the progress soon. 
