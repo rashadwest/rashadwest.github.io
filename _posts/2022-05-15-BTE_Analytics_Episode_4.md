@@ -1,4 +1,4 @@
-#BTE_Analytics
+# BTE_Analytics
 
 ![BTE_Analytics](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Stephen%20Curry%20_%209%20Game%20stats%20(1)%20(1).jpeg?raw=true)
 
