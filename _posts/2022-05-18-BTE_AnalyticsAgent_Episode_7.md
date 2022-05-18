@@ -18,7 +18,7 @@ In the basketball space, Kyrie Irving is represented by his mother Shetellia and
 
 Things based on facts, even if it is a niche element of advanced analytics, that proves a player’s worth. Is it worth an agency partnering with an analytics company? 
 
-Everything we do at [Beat The Expert](http://staging.beattheexpert.com/) is proprietary data and we have just expanded our offerings past STEM and emerging technology to analytics. 
+Everything we do at [Beat The Expert](http://staging.beattheexpert.com/?raw=true) is proprietary data and we have just expanded our offerings past STEM and emerging technology to analytics. 
 
 It would be great to work with agents on helping them get their players a fair deal along with players, scouts, and coaches to help them get the best results by using predictive 
 
