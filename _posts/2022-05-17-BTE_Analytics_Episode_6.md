@@ -2,6 +2,8 @@
 
 A note I sent myself when I first started on this journey. 
 
+![A note to self](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Screen%20Shot%202022-05-18%20at%2012.24.03%20AM.png)
+
 This is how it all started with analytics. I was in NYC working at General Assembly part time and working out for basketball.  I started to record 
 basketball training audio with crowd noise to work out by myself.  That was the first version of the virtual trainer.  
 
