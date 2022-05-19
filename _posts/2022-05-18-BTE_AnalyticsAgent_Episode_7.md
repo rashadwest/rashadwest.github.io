@@ -26,7 +26,9 @@ It would be great to work with agents on helping them get their players a fair d
 
 "One Premier League data scientist told TGG he expected all leading players to come into contract negotiations with a ‘portfolio’ like this within the next three years."
 
-This is the first time a player has reached out to the company in soccer and we think Beat The Expert will be the first in basketball.
+![Rankings: ‘Top Centre-Backs – All Around’ at U23](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Rankings.png?raw=true)
+
+This is the first time a player has reached out to the company in soccer and we think Beat The Expert will be the first in basketball. We will rank players a little different.  We will show the head to head match up.  Unique data against unique data. BTE will be different in this regard.
 
 Michael Jordan(Charlotte Hornets) was a player and now owner who partnered up with another owner Mark Cuban(Dallas Mavericks) to make an investment in an analytic company [Sportradar](https://thesportsrush.com/nba-news-michael-jordan-and-mark-cuban-turned-a-44-million-investment-into-8-billion-how-the-bulls-legend-and-mavs-owner-joined-forces-and-earned-themselves-a-huge-payday/) that turned their 44 million dollar investment into 8 billion dollar IPO.  It is reported that Jordan earned 350 million in the company going public. 
 
