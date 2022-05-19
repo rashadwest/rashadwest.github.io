@@ -4,7 +4,7 @@ I have seen that there is something new Kevin De Bruyne has pointed that out in 
 
 He leaned completely on the data. Data and analytics will revolutionize sports in ways we can not imagine. Players that understand how to read the numbers will not only be great, but they will know their worth. This agency did something that has put the industry on notice. They gamified the agency process by showing a player’s value. If you look at this image, it shows how he probably showed his value. As you see this 
 
-TransferLab photo of Lauren Hemp it explains a lot in one image. 
+TransferLab photo of Lauren Hemp explains a lot in one image. 
 
 It shows her vitals, including height, weight, etc like most platforms. It goes into more details as it talks about the quality of her game, including short passes, long passes, tackles, interceptions, etc. This is all great, but what is interesting is it shows player potential. 
 
@@ -32,7 +32,7 @@ This is the first time a player has reached out to the company in soccer and we 
 
 Michael Jordan(Charlotte Hornets) was a player and now owner who partnered up with another owner Mark Cuban(Dallas Mavericks) to make an investment in an analytic company [Sportradar](https://thesportsrush.com/nba-news-michael-jordan-and-mark-cuban-turned-a-44-million-investment-into-8-billion-how-the-bulls-legend-and-mavs-owner-joined-forces-and-earned-themselves-a-huge-payday/) that turned their 44 million dollar investment into 8 billion dollar IPO.  It is reported that Jordan earned 350 million in the company going public. 
 
-I wonder what player or agent will invest in their future both now and for the future. "Beat the expert" is next up to bat and we are swinging for the fences.  
+I wonder what player or agent will invest in themselves both now and for the future. "Beat the expert" is next up to bat and we are swinging for the fences.  
 
 Source: https://trainingground.guru/articles/how-analytics-fc-helped-de-bruyne-negotiate-new-man-city-deal
 Source: @Betandbusiness
