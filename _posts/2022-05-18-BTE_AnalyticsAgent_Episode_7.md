@@ -18,8 +18,14 @@ In the basketball space, Kyrie Irving is represented by his mother Shetellia and
 
 Things based on facts, even if it is a niche element of advanced analytics, that proves a player’s worth. Is it worth an agency partnering with an analytics company? 
 
+AnalyticsFC says their “algorithm takes a large range of metrics, such as expected goals and expected assists, and works out the effect a player has had on their team’s chances of scoring or conceding goals. This contribution value can then be benchmarked against players bracketed in the same age category and position from different leagues.” I would like to see how accurate their predictive analytic has been. 
+
 Everything we do at [Beat The Expert](http://staging.beattheexpert.com/?raw=true) is proprietary data and we have just expanded our offerings past STEM and emerging technology to analytics. 
 
-It would be great to work with agents on helping them get their players a fair deal along with players, scouts, and coaches to help them get the best results by using predictive analytics with unique insights. 
+It would be great to work with agents on helping them get their players a fair deal along with players, scouts, and coaches to help them get the best results by using predictive analytics with unique insights.
+
+"One Premier League data scientist told TGG he expected all leading players to come into contract negotiations with a ‘portfolio’ like this within the next three years."
+
+This is the first time a player has reached out to the company in soccer and we think Beat The Expert will be the first in basketball.
 
 
