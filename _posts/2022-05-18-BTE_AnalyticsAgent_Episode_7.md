@@ -2,9 +2,7 @@
 
 I have seen that there is something new Kevin De Bruyne has pointed out in the sports industry. He has executed a huge contract with his soccer team without an agent. He negotiated a 4 year 83 million euro contract. This made me research what made him want to do this alone. 
 
-He leaned completely on the data. Data and analytics will revolutionize sports in ways we can not imagine. Players that understand how to read the numbers will not only be great, but they will know their worth. This agency did something that has put the industry on notice. They gamified the agency process by showing a player’s value. If you look at this image, it shows how he probably showed his value. As you see this 
-
-TransferLab photo of Lauren Hemp explains a lot in one image. 
+He leaned completely on the data. Data and analytics will revolutionize sports in ways we can not imagine. Players that understand how to read the numbers will not only be great, but they will know their worth. This data company acting as an "agency" did something that has put the industry on notice. They gamified the agency process by showing a player’s value. If you look at this image, it shows how he probably showed his value. As you see in this TransferLab photo of Lauren Hemp explains a lot in one image. 
 
 It shows her vitals, including height, weight, etc like most platforms. It goes into more details as it talks about the quality of her game, including short passes, long passes, tackles, interceptions, etc. This is all great, but what is interesting is it shows player potential. 
 
