@@ -14,7 +14,7 @@ There are multiple players that are represented by their family members. Lionel 
 
 In the basketball space, Kyrie Irving is represented by his mother Shetellia and Mike Conley is represented by his father, Mike Conley Sr. The one thing that most of us realize is negotiation is a skill. I have never heard about negotiators using advanced analytics, but I want to ask what if they did? Would they increase the deal by multiple basis points for their client?
 
-Things based on facts, even if it is a niche element of advanced analytics, that proves a player’s worth. Is it worth an agency partnering with an analytics company? 
+Things based on facts, even if it is a niche element of advanced analytics, that proves a player’s worth are beyond valuable. Is it worth an agency or player partnering with an analytics company? 
 
 AnalyticsFC says their “algorithm takes a large range of metrics, such as expected goals and expected assists, and works out the effect a player has had on their team’s chances of scoring or conceding goals. This contribution value can then be benchmarked against players bracketed in the same age category and position from different leagues.” I would like to see how accurate their predictive analytic has been. 
 
@@ -30,7 +30,7 @@ This is the first time a player has reached out to the company in soccer and we 
 
 Michael Jordan(Charlotte Hornets) was a player and now owner who partnered up with another owner Mark Cuban(Dallas Mavericks) to make an investment in an analytic company [Sportradar](https://thesportsrush.com/nba-news-michael-jordan-and-mark-cuban-turned-a-44-million-investment-into-8-billion-how-the-bulls-legend-and-mavs-owner-joined-forces-and-earned-themselves-a-huge-payday/) that turned their 44 million dollar investment into 8 billion dollar IPO.  It is reported that Jordan earned 350 million in the company going public. 
 
-I wonder what player or agent will invest in themselves both now and for the future. "Beat the expert" is next up to bat and we are swinging for the fences.  
+I wonder what player or agent will invest in themselves both now and for the future by investing in analtyics. "Beat the expert" is next up to bat and we are swinging for the fences.  
 
 Source: https://trainingground.guru/articles/how-analytics-fc-helped-de-bruyne-negotiate-new-man-city-deal
 Source: @Betandbusiness
