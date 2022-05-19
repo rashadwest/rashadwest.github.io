@@ -30,7 +30,7 @@ This is the first time a player has reached out to the company in soccer and we 
 
 Michael Jordan(Charlotte Hornets) was a player and now owner who partnered up with another owner Mark Cuban(Dallas Mavericks) to make an investment in an analytic company [Sportradar](https://thesportsrush.com/nba-news-michael-jordan-and-mark-cuban-turned-a-44-million-investment-into-8-billion-how-the-bulls-legend-and-mavs-owner-joined-forces-and-earned-themselves-a-huge-payday/) that turned their 44 million dollar investment into 8 billion dollar IPO.  It is reported that Jordan earned 350 million in the company going public. 
 
-I wonder what player or agent will invest in their future both now and for the future. Beat the expert is next up to bat and we are swinging for the fences.  
+I wonder what player or agent will invest in their future both now and for the future. "Beat the expert" is next up to bat and we are swinging for the fences.  
 
 Source: https://trainingground.guru/articles/how-analytics-fc-helped-de-bruyne-negotiate-new-man-city-deal
 Source: @Betandbusiness
