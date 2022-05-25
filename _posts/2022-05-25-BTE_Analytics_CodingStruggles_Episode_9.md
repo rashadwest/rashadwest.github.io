@@ -7,8 +7,8 @@ I have been working on two things all day today.
     - Now I am looking to take it straight from the csv file 
 
 2. Importing a CSV or excel file into a jupiter notebook. 
-  - Right now I am using google colab and the challenge I am having is error code after error code.
-  - I am going to look into more ways to add the file 
+    - Right now I am using google colab and the challenge I am having is error code after error code.
+    - I am going to look into more ways to add the file 
 
 
   - ![Struggle1](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Struggle1.png?raw=true)
