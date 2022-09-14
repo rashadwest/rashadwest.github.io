@@ -13,7 +13,7 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 ## Education
 - Hampton University, BS, Business Management
 - Stanford University, Entrepreneurship & Innovation Program
-- Google, VR & 360 video certification
+- New York University, AI School (Artificial Intelligence)
 
 ## Data Analytics Coursework
 - [Datacamp: Introduction to Python](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Ffabb7d75677a5fd7cde59a125e02650a7b02fc38)
@@ -21,6 +21,13 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 ## Other CS Coursework
 - General Assembly: Introduction to Ruby on Rails (weekend course)
 - General Assembly: Introduction to IOS development (weekend course)
+- Unity C# Game Development 2D
+- CS50: Introduction to Game Development
+
+## Certifications 
+- Google, VR & 360 video certification
+- NIL Certification (Front Office Sports, Instagram, Facebook)
+- Crypto in Sports Essentials (Front Office Sports, Coinbase)
 
 ## Projects 
 - Beat The Expert VR application (version 1)
@@ -31,8 +38,10 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
   - It houses our curriculum and game
 - Single Mothers VR experience 
   - Shows an experience of a low class single mother
-- [Whats Cancelled website](www.whatscancelled.com)
-  - A website to help people navigate Covid-19
+- VR Diamond League 
+  - Producing the next elite athlete 
+- Sports Coding game 
+  - Teaching kids how to code through sports 
 
 ## Innovation Programs
 - Berkley Startup Program
@@ -45,12 +54,14 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Frontlines Operations, General Assembly (Aquired by Adecco)
 - Lead Trainer, Lifetime Athletic 
 - CEO, Courtside Xperience Labs Inc.
+- Managing Parnter, Beat The Expert
 
 ## Interships 
-- Data Science internship, 2020
+- Bloc Data Science internship, 2020
 
-## Fellowships 
-- Oculus(Facebook) LaunchPad Fellow 2017, 2018
+## Fellowships & Accelerators
+- Oculus(Meta) LaunchPad Fellow 2017, 2018
+- HQ Labs (NCIDEA, Groundwork Labs)
 
 ## Professional Athletic Experience
 - Idaho Stampede, NBA Developmental League 
@@ -59,6 +70,7 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Assis Basket, Brazil 
 - Antranik Basket, Lebanon 
 - KK Vardar Basket, Macedonia
+- PurInstinct, Canada
 
 # Community 
 - Creator, Beat the Expert (STEAM Sport)
@@ -68,3 +80,9 @@ I appreiciate you going on this journey with me as I know it will be fun. Below 
 - Board Member, Greater Development of All Youth (G.D.A.Y Camps)
 - Speaker, Microsoft ManCode events
 - Speaker, Boys and Girls Club Golf Tournament
+- Speaker, Verizon Innovative Learning (NCCU summer initiaive)
+- Speaker, Shaw University Sports Banquet
+- Speaker, Saint Augustine University Sports Management Department 
+- Speaker, Johnson C. Smith Sports Management Department 
+- Speaker, Howard University Sports Management Department
+
