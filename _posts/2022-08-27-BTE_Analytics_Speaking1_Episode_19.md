@@ -13,3 +13,8 @@ If you are playing or just watching, there is always something to do. It is back
 Back to when you have fun playing games like king of the court, 50, 21, etc. with friends. 
 
 We are bringing the fun back to the game and making it about more than just highlights by giving the players and statisticians the power over their own data. 
+
+![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Speaker2.jpg?raw=true)
+![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Speaker3.jpg?raw=true)
+![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Speaker4.jpg?raw=true)
+![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/Speaker5.jpg?raw=true)
