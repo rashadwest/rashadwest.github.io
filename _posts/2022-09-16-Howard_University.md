@@ -1,4 +1,4 @@
-#Howard University Speaking Opportunity 
+# Howard University Speaking Opportunity 
 
 I had a pleasure talking at Howard University. It was an amazing experience. The students were asking terrific questions. They were engaged throughout 
 the whole talk. I focused on 3 core areas within the talk. 
