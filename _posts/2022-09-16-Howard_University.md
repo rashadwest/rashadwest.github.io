@@ -12,5 +12,4 @@ By the end of October I will have spoken at JCSU and Morehouse as well.
 
 Dr. Perry is doing a great job introducing his students to nuanced technology within the sports sector. 
 
-![BTE_Howard](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/BTE_Howard.png?raw=true)
 
