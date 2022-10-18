@@ -12,7 +12,7 @@ and seeing everything they have going on. They want me to do
 
 Here is the health and career event that they want me to be involved in below. This is an amazing event for the community. They have free haircuts, testing, and career opportunities. I love when HBCU's are doing things like this for the students. 
 
-![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/16thHealthFairFlyer%20for%20March%202023%20(1).pdf?raw=true)
+![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/JCSU.png?raw=true)
 
 It was a fantastic experience and I look forward to this in March 2023. 
 
