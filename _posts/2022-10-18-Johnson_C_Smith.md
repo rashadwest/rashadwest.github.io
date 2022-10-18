@@ -10,4 +10,9 @@ and seeing everything they have going on. They want me to do
 3. I could not see the class because it was on zoom so I am not sure about engagement 
 4. My main purpose is to tell the community about emerging technology and opportunities in sports outside of agent or player. 
 
-It was a fantastic experience. As I think about more I will add some more context. 
+Here is the health and career event that they want me to be involved in below. This is an amazing event for the community. They have free haircuts, testing, and career opportunities. I love when HBCU's are doing things like this for the students. 
+
+![](https://github.com/rashadwest/rashadwest.github.io/blob/master/_posts/16thHealthFairFlyer%20for%20March%202023%20(1).pdf?raw=true)
+
+It was a fantastic experience and I look forward to this in March 2023. 
+
