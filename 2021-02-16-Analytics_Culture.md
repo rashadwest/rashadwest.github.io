@@ -1,4 +1,4 @@
-# Analytics Culuture
+# Analytics Culture
 Here is an advanced analytic where we have developed an advanced analytic called the Beat The Expert (BTE) box score.  The box score uses our court plotting system to determine where you are on the court when you shoot the ball. 
 The plotting system enables an individual to determine location by color.  This color pattern gives fans, general managers, data scientists, statisticians, and analysts a way of knowing where a player is without needing a shot plot.  
 
