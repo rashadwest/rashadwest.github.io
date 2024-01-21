@@ -1,3 +1,5 @@
+#Sports_Innovation_Lab_Lounge
+
 At the Sports Innovation Lab Lounge during CES 2024, a range of discussions and presentations highlighted the evolving intersection of technology and sports. One of the key topics was the impact of data on understanding sports fans, specifically the concept of "Fluid Fans" who are characterized by traits like being values-driven and open to new ways of engaging with sports through streaming and festivals. This new fan data is being used by brands and properties to better target and engage with these audiences.
 
 Another significant focus was on the ROI of women's sports, where Sports Innovation Lab shared insights on the increasing investment in women's sports media and sponsorships, backed by data and case studies. This reflects a growing recognition of the value and potential in women's sports.
